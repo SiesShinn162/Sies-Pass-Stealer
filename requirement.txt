@@ -1,0 +1,11 @@
+requests
+Crypto.Cipher
+pycryptodome
+shutil
+discord
+uuid
+ctypes
+base64
+wmi
+time
+auto-py-to-exe
