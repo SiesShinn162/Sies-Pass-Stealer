@@ -28,4 +28,4 @@ cần ảnh hả??? lười chụp:)))
 
 This tool is for educational purposes only!/bold>
 
-# Source code có kham khảo và sử dụng một số func của 1 vào dev trên github và gg nếu bạn là dev hoặc thấy code của mình thì tôi xin cảm ơn rất nhiều!
+# Source code có kham khảo và sử dụng một số func của 1 vài dev trên github và gg nếu bạn là dev hoặc thấy code của mình thì tôi xin cảm ơn rất nhiều!
